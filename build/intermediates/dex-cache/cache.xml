@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/igor/Development/android/phonerunner/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-1d5bc4d40c22e31a270393cb7b68bc90f37ea5a0.jar"
+        jar="/Users/igor/Development/android/phonerunner/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/Users/igor/Development/android/phonerunner/app/build/intermediates/pre-dexed/debug/classes-329eb51cdd7c1de0f89c18ed37869a190390eca5.jar"
+        jar="/Users/igor/Development/android/phonerunner/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/igor/Development/android/phonerunner/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-0f025f89719437ab90fa774af82f1c8c3edcdf9a.jar"
+        jar="/Users/igor/Development/android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+
+</pre-dex-items>

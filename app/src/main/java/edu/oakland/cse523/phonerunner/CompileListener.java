@@ -19,9 +19,6 @@ public class CompileListener extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
 
-        String msg = intent.getStringExtra(Main.MESSAGE);
-        String code = intent.getStringExtra(Main.OUTPUT);
-        m.Output(msg, code);
 
     }
 }
