@@ -28,10 +28,9 @@
             android:name="edu.oakland.cse523.phonerunner.Settings"
             android:label="@string/title_activity_settings" >
         </activity>
-        <activity
-            android:name="edu.oakland.cse523.phonerunner.CompileOutput"
-            android:label="@string/title_activity_compile_output" >
-        </activity>
+        <service
+            android:name=".SocketService">
+        </service>
     </application>
 
 </manifest>

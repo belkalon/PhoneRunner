@@ -40,4 +40,4 @@
         android:layout_alignParentEnd="true"
         android:layout_below="@+id/textDescription" />
 </RelativeLayout>
-<!-- From: file:/Users/igor/Development/android/phonerunner/app/src/main/res/layout/activity_compile_output.xml -->
+<!-- From: file:/C:/Users/Belkalon/AndroidStudioProjects/PhoneRunner/app/src/main/res/layout/activity_compile_output.xml -->
