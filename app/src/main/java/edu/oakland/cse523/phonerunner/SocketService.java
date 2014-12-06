@@ -50,12 +50,13 @@ public class SocketService extends IntentService {
 
                         String error = output.getString("message");
                         String message = "Error: " + error;
-
+                        sock.close();
 
                         Main.showDialog(getApplicationContext(), "Error", message);
                     } else {
                         String compiledCode = output.getString("output");
                         String message = "Response: " + compiledCode;
+                        sock.close();
 
 
                         Main.showDialog(getApplicationContext(), "Result", message);
